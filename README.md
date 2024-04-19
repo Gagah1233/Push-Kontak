@@ -52,7 +52,7 @@ $ npm start
 ## UNTUK PENGGUNA PANEL PTERODACTYL
 
 * Panel Pterodactyle [`Klik Disini`](https://panel.respayment.site)
-* Kontak Pembelian [`Klik Disini`](https://wa.me/+6285742632270)
+* Kontak Pembelian [`Klik Disini`](https://wa.me/+6283867263347)
 
 ```bash
 $ npm install
